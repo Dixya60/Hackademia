@@ -21,7 +21,7 @@ def determine_grade(average):
     
 # Display results/outputs
 def display_result(average, grade):
-    print("---Result---")
+    print("----Result----")
     print(f"Average marks : {average:.2f}")
     print("Grade : ", grade)
 

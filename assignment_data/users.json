@@ -1,0 +1,1674 @@
+[
+  {
+    "user_id": 1,
+    "profile": {
+      "name": "user1",
+      "activity": [
+        {
+          "action": "logout",
+          "count": 10
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "logout",
+          "count": 6
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 2,
+    "profile": {
+      "name": "user2",
+      "activity": [
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 6
+        },
+        {
+          "action": "purchase",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "login",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 4
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 3,
+    "profile": {
+      "name": "user3",
+      "activity": [
+        {
+          "action": "login",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 15
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 4,
+    "profile": {
+      "name": "user4",
+      "activity": [
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 18
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 11
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 13
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 5,
+    "profile": {
+      "name": "user5",
+      "activity": [
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 18
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 5
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 3
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 6,
+    "profile": {
+      "name": "user6",
+      "activity": [
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 15
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 17
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 7,
+    "profile": {
+      "name": "user7",
+      "activity": [
+        {
+          "action": "login",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "purchase",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 14
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 8,
+    "profile": {
+      "name": "user8",
+      "activity": [
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 12
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "logout",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 6
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "login",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 9,
+    "profile": {
+      "name": "user9",
+      "activity": [
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 11
+        },
+        {
+          "action": "login",
+          "count": 18
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 6
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 11
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 16
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 10,
+    "profile": {
+      "name": "user10",
+      "activity": [
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 13
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 11,
+    "profile": {
+      "name": "user11",
+      "activity": [
+        {
+          "action": "logout",
+          "count": 12
+        },
+        {
+          "action": "purchase",
+          "count": 15
+        },
+        {
+          "action": "login",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "logout",
+          "count": 4
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 15
+        },
+        {
+          "action": "logout",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 17
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 12,
+    "profile": {
+      "name": "user12",
+      "activity": [
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "logout",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "logout",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "purchase",
+          "count": 6
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "purchase",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 11
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 13,
+    "profile": {
+      "name": "user13",
+      "activity": [
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "logout",
+          "count": 6
+        },
+        {
+          "action": "logout",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "login",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 17
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 8
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 14,
+    "profile": {
+      "name": "user14",
+      "activity": [
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 12
+        },
+        {
+          "action": "logout",
+          "count": 12
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "login",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 12
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 3
+        },
+        {
+          "action": "purchase",
+          "count": 5
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 16
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 15,
+    "profile": {
+      "name": "user15",
+      "activity": [
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "logout",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 6
+        },
+        {
+          "action": "logout",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 8
+        },
+        {
+          "action": "logout",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "logout",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 11
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 16,
+    "profile": {
+      "name": "user16",
+      "activity": [
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "login",
+          "count": 17
+        },
+        {
+          "action": "purchase",
+          "count": 11
+        },
+        {
+          "action": "login",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 5
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "logout",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 17,
+    "profile": {
+      "name": "user17",
+      "activity": [
+        {
+          "action": "login",
+          "count": 13
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 1
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 8
+        },
+        {
+          "action": "login",
+          "count": 3
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "logout",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 11
+        },
+        {
+          "action": "logout",
+          "count": 17
+        },
+        {
+          "action": "login",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "purchase",
+          "count": 1
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        },
+        {
+          "action": "purchase",
+          "count": 8
+        },
+        {
+          "action": "purchase",
+          "count": 17
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 18,
+    "profile": {
+      "name": "user18",
+      "activity": [
+        {
+          "action": "purchase",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 9
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 20
+        },
+        {
+          "action": "login",
+          "count": 14
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 10
+        },
+        {
+          "action": "purchase",
+          "count": 13
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "logout",
+          "count": 15
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "purchase",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "purchase",
+          "count": 18
+        },
+        {
+          "action": "login",
+          "count": 19
+        },
+        {
+          "action": "logout",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 7
+        }
+      ]
+    }
+  },
+  {
+    "user_id": 19,
+    "profile": {
+      "name": "user19",
+      "activity": [
+        {
+          "action": "purchase",
+          "count": 15
+        },
+        {
+          "action": "purchase",
+          "count": 12
+        },
+        {
+          "action": "login",
+          "count": 16
+        },
+        {
+          "action": "purchase",
+          "count": 6
+        },
+        {
+          "action": "logout",
+          "count": 19
+        },
+        {
+          "action": "login",
+          "count": 10
+        },
+        {
+          "action": "logout",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 5
+        },
+        {
+          "action": "login",
+          "count": 12
+        },
+        {
+          "action": "logout",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 9
+        },
+        {
+          "action": "purchase",
+          "count": 2
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "login",
+          "count": 7
+        },
+        {
+          "action": "login",
+          "count": 4
+        },
+        {
+          "action": "logout",
+          "count": 1
+        },
+        {
+          "action": "login",
+          "count": 2
+        },
+        {
+          "action": "purchase",
+          "count": 14
+        }
+      ]
+    }
+  }
+]

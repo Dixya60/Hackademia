@@ -1,0 +1,10 @@
+Data science uses Python and statistics.
+Data science is growing fast.
+Python is widely used in data science.
+Statistics and Python are important in data science.
+Machine learning is part of data science.
+Python supports multiple programming paradigms.
+Python has dynamic typing and automatic memory management.
+Python is used in data science, machine learning, web development, and automation.
+Python libraries like NumPy, Pandas, and Matplotlib are powerful tools.
+Because Python is readable and clean, developers prefer Python for rapid development.

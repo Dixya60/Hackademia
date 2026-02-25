@@ -1,0 +1,6 @@
+Alice, alice@gmail.com, 123-456-7890
+Bob, bob[at]mail.com, 999999
+Charlie, charlie@yahoo.com, (555) 123-4567
+Invalid random text line
+Daisy, daisy@mail.com, 111-222-3333
+Alice, alice@gmail.com, 123-456-7890

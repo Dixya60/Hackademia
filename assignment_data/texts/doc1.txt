@@ -1,0 +1,8 @@
+Python is great and Python is fast. Python uses interpretor and code is parsed line by line.
+Python programming is popular and widely used.
+Many developers love Python because Python is easy to learn.
+Data science helps companies make better decisions.
+Big data and data analysis are core areas of data science.
+Python libraries such as NumPy and Pandas are essential for data science.
+Visualization tools help present data science results clearly.
+Data science combines mathematics, programming, and domain knowledge.

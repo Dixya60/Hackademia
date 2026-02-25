@@ -1,0 +1,52 @@
+{
+    "Added": {
+        "111": {
+            "name": "Papaya",
+            "quantity": 14
+        },
+        "112": {
+            "name": "Peach",
+            "quantity": 16
+        },
+        "113": {
+            "name": "Cherry",
+            "quantity": 19
+        }
+    },
+    "Removed": {
+        "102": {
+            "name": "Banana",
+            "quantity": 30
+        },
+        "107": {
+            "name": "Watermelon",
+            "quantity": 10
+        },
+        "110": {
+            "name": "Kiwi",
+            "quantity": 12
+        }
+    },
+    "Quantity Changed": {
+        "101": {
+            "Name": "Apple",
+            "Old": 50,
+            "New": 60
+        },
+        "104": {
+            "Name": "Grapes",
+            "Old": 25,
+            "New": 30
+        },
+        "105": {
+            "Name": "Mango",
+            "Old": 40,
+            "New": 35
+        },
+        "108": {
+            "Name": "Strawberry",
+            "Old": 18,
+            "New": 10
+        }
+    }
+}

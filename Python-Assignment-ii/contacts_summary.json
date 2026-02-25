@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "Alice",
+            "email": "alice@gmail.com",
+            "phone": "123-456-7890"
+        },
+        {
+            "name": "Charlie",
+            "email": "charlie@yahoo.com",
+            "phone": "(555) 123-4567"
+        },
+        {
+            "name": "Daisy",
+            "email": "daisy@mail.com",
+            "phone": "111-222-3333"
+        }
+    ]
+}

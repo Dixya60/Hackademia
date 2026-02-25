@@ -1,0 +1,9 @@
+{
+    "PassengerId": 0,
+    "Survived": 0,
+    "Pclass": 0,
+    "Age": 177,
+    "SibSp": 0,
+    "Parch": 0,
+    "Fare": 0
+}

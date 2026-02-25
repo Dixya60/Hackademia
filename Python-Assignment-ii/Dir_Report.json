@@ -1,0 +1,69 @@
+{
+    "Files ": [
+        {
+            "Path ": "../assignment_data/contacts.txt",
+            "Size ": 211,
+            "Last modified ": 1771654057.3623946
+        },
+        {
+            "Path ": "../assignment_data/raw_dump.txt",
+            "Size ": 166,
+            "Last modified ": 1771654057.371653
+        },
+        {
+            "Path ": "../assignment_data/users.json",
+            "Size ": 31288,
+            "Last modified ": 1771654057.3816745
+        },
+        {
+            "Path ": "../assignment_data/json_data\\data1.json",
+            "Size ": 65,
+            "Last modified ": 1771654057.3623946
+        },
+        {
+            "Path ": "../assignment_data/json_data\\data2.json",
+            "Size ": 51,
+            "Last modified ": 1771654057.3623946
+        },
+        {
+            "Path ": "../assignment_data/logs\\app1.log",
+            "Size ": 1860,
+            "Last modified ": 1771654857.3960688
+        },
+        {
+            "Path ": "../assignment_data/logs\\app2.log",
+            "Size ": 1820,
+            "Last modified ": 1771654868.7532868
+        },
+        {
+            "Path ": "../assignment_data/sample_dir\\a.txt",
+            "Size ": 75,
+            "Last modified ": 1771654057.377281
+        },
+        {
+            "Path ": "../assignment_data/sample_dir\\b.log",
+            "Size ": 75,
+            "Last modified ": 1771654057.377281
+        },
+        {
+            "Path ": "../assignment_data/texts\\doc1.txt",
+            "Size ": 525,
+            "Last modified ": 1771776513.4692008
+        },
+        {
+            "Path ": "../assignment_data/texts\\doc2.txt",
+            "Size ": 561,
+            "Last modified ": 1771776462.582272
+        }
+    ],
+    "Unique extensions ": [
+        ".log",
+        ".json",
+        ".txt"
+    ],
+    "Count per extension type ": {
+        ".txt": 5,
+        ".json": 3,
+        ".log": 3
+    }
+}
